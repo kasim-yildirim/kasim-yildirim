@@ -1,4 +1,4 @@
-### Merhaba, ben Kasım Yıldırım 👋
+### Merhaba, ben Kasım Yıldırım <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <img align="right" alt="GIF" src="https://github.com/kasim-yildirim/kasim-yildirim/blob/main/code.gif" width="400" height="220" />
 
@@ -13,6 +13,7 @@
 <a href="https://t.me/kasimyildirim">
   <img align="left" alt="Adem's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
+![](https://visitor-badge.glitch.me/badge?page_id=kasim-yildirim.kasim-yildirim)
 
 
 <br/> **💻 Çalıştığım Teknolojiler:**
