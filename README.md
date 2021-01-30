@@ -1,5 +1,7 @@
 ### Merhaba, ben Kasım Yıldırım 👋
 
+<img align="right" alt="GIF" src="https://github.com/kasim-yildirim/kasim-yildirim/blob/main/code.gif" width="400" height="220" />
+
 <br/>**📫 İletişim Bilgilerim:** <br/>
 
 <a href="https://www.linkedin.com/in/kasım-yıldırım-8ba412190//">
@@ -24,7 +26,7 @@
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></a></code>
 
- <img align="right" alt="GIF" src="https://github.com/kasim-yildirim/kasim-yildirim/blob/main/code.gif" width="400" height="220" />
+ 
 
 
 
