@@ -10,7 +10,7 @@
 </a><br/>
 <a href="https://t.me/kasimyildirim">
   <img align="left" alt="Adem's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
+</a><br/>
 
 <br/> **💻 Çalıştığım Teknolojiler:**
 
