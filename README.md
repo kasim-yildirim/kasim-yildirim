@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Kasım Yıldırım
+### Merhaba, ben Kasım Yıldırım 👋
 
 <br/>**📫 İletişim Bilgilerim:** <br/>
 
