@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# kasim-yildirim
+# Kasım Yıldırım
 
 <br/>**📫 İletişim Bilgilerim:** <br/>
 
